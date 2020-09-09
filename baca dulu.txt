@@ -1,0 +1,8 @@
+cara penggunaan:
+1. buat database db_segerwaras
+2. import file db_segerwaras.sql
+3. login awal dengan 
+	user: admin
+	pass: admin
+4. edit data login bisa di navbar user jgn di phpmyadmin
+5. user cuman 1 saja yaitu admin
